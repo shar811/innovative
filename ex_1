@@ -1,0 +1,11 @@
+#include<stdi.h>
+<#include<conio.h>
+int main()
+{
+int a;
+clrscr();
+printf("a");
+scanf("%d" ,&a);
+getch();
+retrurn 0;
+}
