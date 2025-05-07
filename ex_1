@@ -9,3 +9,4 @@ scanf("%d" ,&a);
 getch();
 retrurn 0;
 }
+this is  the c prgr,me to get the value of a 
